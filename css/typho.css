@@ -1,0 +1,29 @@
+/* font family */
+.mukta {
+    font-family: 'Mukta', sans-serif;
+}
+
+.roboto-slab {
+    font-family: 'Roboto Slab', serif;
+}
+
+.arkhip {
+    font-family: 'Arkhip', sans-serif;
+}
+
+/* color */
+.basic {
+    color: #090706;
+}
+
+.danger {
+    color: #F9002F;
+}
+
+.reverse {
+    color: #FFFFFF;
+}
+
+.action {
+    color: #7C7E85;
+}
